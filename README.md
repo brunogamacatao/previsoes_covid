@@ -1,8 +1,8 @@
-# Visualizados de Dados da COVID-19 no Brasil
+# Visualizador de Dados da COVID-19 no Brasil
 
 Esse script simples permite a visualização atualizada de casos confirmados e óbitos, relacionados à COVID-19 no Brasil.
 
-Este software foi escrito em Python 3 e utiliza dados públicos disponibilizados pelo Ministério da Saúde do Brasil.
+Software escrito em Python 3 utilizando dados públicos disponibilizados pelo Ministério da Saúde do Brasil.
 
 ## Como utilizar
 
