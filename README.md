@@ -4,6 +4,8 @@ Esse script simples permite a visualização atualizada de casos confirmados e �
 
 Software escrito em Python 3 utilizando dados públicos disponibilizados pelo Ministério da Saúde do Brasil.
 
+![screenshot do dia 4 de abril de 2020](https://github.com/brunogamacatao/previsoes_covid/blob/media/screenshot.png?raw=true)
+
 ## Como utilizar
 
 ```bash
